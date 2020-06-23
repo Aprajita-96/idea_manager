@@ -1,0 +1,17 @@
+{
+  "name": "IdeaManager",
+  "displayName": "IdeaManager",
+  "expo": {
+    "name": "IdeaManager",
+    "slug": "IdeaManager",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
